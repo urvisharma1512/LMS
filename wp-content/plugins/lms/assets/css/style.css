@@ -1,0 +1,9 @@
+.error{
+    color:red;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+.padding{
+    padding-top: 50px;
+}
